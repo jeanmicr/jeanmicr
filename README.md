@@ -8,8 +8,6 @@
 
 🌟 Estou sempre em busca de aprender e crescer como desenvolvedor. Amo colaborar em projetos de código aberto e compartilhar conhecimento com a comunidade. Estou disponível para oportunidades de trabalho, parcerias e discussões interessantes sobre desenvolvimento web.
 
-📫 Você pode me encontrar aqui no GitHub, onde compartilho projetos interessantes, soluções úteis e tutoriais sobre JavaScript e integrações de API usando o Node.js. Fique à vontade para explorar meu trabalho e entrar em contato comigo!
-
 Let's code and make the web a better place! 🌐💻
 
 <!---
