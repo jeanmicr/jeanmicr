@@ -1,12 +1,10 @@
-👋 Olá! Sou o Jean! Um entusiasta de JavaScript com uma paixão especial por integrações de API usando o Node.js. ✨
+👋 Olá! Sou um entusiasta de Python e JavaScript com uma paixão especial por integrações de API e criação de RPA  ✨
 
-🚀 Meu objetivo é criar soluções criativas e eficientes por meio do desenvolvimento de software. Com uma sólida experiência em JavaScript, estou sempre explorando maneiras de tornar a web mais interativa e dinâmica.
+🚀 Meu objetivo é criar soluções criativas e eficientes por meio do desenvolvimento de softwares, aplicações Web e RPAs. Estou sempre explorando maneiras de tornar a web mais interativa e dinâmica.
 
-💻 Atualmente, meu foco principal é no desenvolvimento back-end usando o Node.js. Adoro transformar ideias em código e criar APIs robustas e escaláveis. Meu conhecimento em JavaScript abrange desde a manipulação de dados até a implementação de recursos avançados, como autenticação, validação e gerenciamento de banco de dados.
+💻 Atualmente, meu foco principal é no desenvolvimento RPAs dentro do Google Sheets, que inicialmente eram trabalhados em Python de forma local e hoje estão em JavaScript pela facilidade obtida através do Google Apps Script em criar triggers. Adoro transformar ideias em código. Meu conhecimento  a manipulação de dados até a implementação de recursos. como autenticação, validação e até um pouco de gerenciamento de banco de dados.
 
-🔗 Além disso, tenho uma paixão por integrações de API. Acredito que o Node.js é uma ótima escolha para construir aplicativos conectados e eficientes. Já trabalhei com várias APIs populares, como REST e um pouco de WebSocket, e estou sempre disposto a enfrentar novos desafios de integração.
-
-🌟 Estou sempre em busca de aprender e crescer como desenvolvedor. Amo colaborar em projetos de código aberto e compartilhar conhecimento com a comunidade. Estou disponível para oportunidades de trabalho, parcerias e discussões interessantes sobre desenvolvimento web.
+🌟 Estou sempre em busca de aprender e crescer como desenvolvedor.
 
 Let's code and make the web a better place! 🌐💻
 
